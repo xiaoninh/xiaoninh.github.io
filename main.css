@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans|Quattrocento+Sans');
+
+#nav-header {
+	height: 3em;
+}
+
+.profile-header {
+	background: #f8d7da;
+	padding-bottom: 2em;
+	padding-top: 3em;
+}
+
+.profile-header h1 {
+	letter-spacing: -2px;
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+.profile-header h2 {
+	font-size: 1em;
+	color: #2c3e50;
+}
+
+.senior-project {
+	padding-top: 8em;
+}
+
+.senior-project:last-of-type {
+	padding-bottom: 8em;
+}
+
+.senior-project h2 {
+	font-size: 1.4em;
+}
+
+.senior-project h3 {
+	font-size: 2.5em;
+	font-weight: bolder;
+	letter-spacing: -1px;
+}
+
+.senior-project p {
+	font-size: 1.2em;
+}
+
+.more-button {
+	font-weight: bolder;
+}
+
+h1, h2, h3, h4, h5, p {
+	font-family: 'Quattrocento Sans', sans-serif;
+	padding: 0;
+	margin: 0;
+}
+
+h1 {
+	font-size: 2.5em;
+}
+
+@media (min-width: 576px) {
+	.profile-header h2 {
+		font-size: 1.5em;
+	}
+}
+
+
+@media (min-width: 768px) {
+	.profile-header h2 {
+		font-size: 2em;
+	}
+}
+
+
+@media (min-width: 992px) {
+	.profile-header h2 {
+		font-size: 2em;
+	}
+}
+
+
+@media (min-width: 1200px) {
+	h1 {
+		font-size: 4em;
+	}
+}
