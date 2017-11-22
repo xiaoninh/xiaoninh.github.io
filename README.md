@@ -1,2 +1,2 @@
 # xiaoninh.github.io
-Offical Persoanl Portfolio
+Offical Personal Portfolio
