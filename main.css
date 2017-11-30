@@ -1,13 +1,14 @@
 Profile.jpeg@import url('https://fonts.googleapis.com/css?family=Josefin+Sans|Quattrocento+Sans');
 
 #nav-header {
-	height: 3em;
+	height: 4em;
 }
 
 .profile-header {
 	background: #f8d7da;
-	padding-bottom: 2em;
-	padding-top: 3em;
+	padding-top: 6em;
+	padding-bottom: : 6em;
+
 }
 
 .profile-header h1 {
@@ -31,6 +32,8 @@ Profile.jpeg@import url('https://fonts.googleapis.com/css?family=Josefin+Sans|Qu
 .senior-project h2 {
 	font-size: 1.4em;
 }
+
+
 
 .senior-project h3 {
 	font-size: 2.5em;
