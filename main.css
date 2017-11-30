@@ -49,6 +49,26 @@ Profile.jpeg@import url('https://fonts.googleapis.com/css?family=Josefin+Sans|Qu
 	font-weight: bolder;
 }
 
+a.box:link {
+    color: #f8d7da;
+}
+
+
+a.box:visited {
+    color: #f8d7da;
+}
+
+
+a.box:hover {
+    color: grey}
+
+
+a.box:active {
+    color: #f8d7da;
+}
+
+
+
 h1, h2, h3, h4, h5, p {
 	font-family: 'Quattrocento Sans', sans-serif;
 	padding: 0;
